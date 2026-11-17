@@ -1,7 +1,7 @@
 # SokoMart Kenya Advanced SQL — Day 1 Submission
 
-Prepared by: [Your Name]  
-Cohort: LuxDevHQ Cohort 9  
+Prepared by: Clarence Gatama  
+Cohort: Cohort 9  
 Date: 14 November 2026
 
 ## Overview
